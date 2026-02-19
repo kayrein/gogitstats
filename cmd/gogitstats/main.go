@@ -11,7 +11,7 @@ import (
 	"github.com/jedib0t/go-pretty/v6/table"
 )
 
-var Version = "v0.1.0"
+var Version = "v0.1.1"
 
 type Change struct {
 	Added   int

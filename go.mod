@@ -1,4 +1,4 @@
-module gogitstats
+module github.com/kayrein/gogitstats
 
 go 1.25.0
 
